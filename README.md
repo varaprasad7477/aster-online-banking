@@ -40,3 +40,6 @@ Password reset is disabled in the public demo because no email server is configu
 ## Project scope
 
 This independent portfolio repository packages the Aster UI, local demo setup, validation, transfer handling, and tests as a clean project snapshot. It builds on an earlier Spring Boot banking API by Lakshay Tyagi; the current UI is plain HTML, CSS, and JavaScript served by Spring Boot. This remains a demo, not a production banking system. In particular, amounts are stored as `double`; production financial software should use decimal money types, stronger audit controls, rate limits, and an externally managed secret.
+
+live link
+https://aster-online-banking.onrender.com/
